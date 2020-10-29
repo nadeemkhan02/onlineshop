@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Apnawholesaler/static/css/main.2ea799f9.chunk.css",
+    "main.js": "/Apnawholesaler/static/js/main.392f6825.chunk.js",
+    "main.js.map": "/Apnawholesaler/static/js/main.392f6825.chunk.js.map",
+    "runtime-main.js": "/Apnawholesaler/static/js/runtime-main.73cf0242.js",
+    "runtime-main.js.map": "/Apnawholesaler/static/js/runtime-main.73cf0242.js.map",
+    "static/js/2.6a2a0078.chunk.js": "/Apnawholesaler/static/js/2.6a2a0078.chunk.js",
+    "static/js/2.6a2a0078.chunk.js.map": "/Apnawholesaler/static/js/2.6a2a0078.chunk.js.map",
+    "index.html": "/Apnawholesaler/index.html",
+    "static/css/main.2ea799f9.chunk.css.map": "/Apnawholesaler/static/css/main.2ea799f9.chunk.css.map",
+    "static/js/2.6a2a0078.chunk.js.LICENSE.txt": "/Apnawholesaler/static/js/2.6a2a0078.chunk.js.LICENSE.txt",
+    "static/media/Almond.c3b02e5f.jpg": "/Apnawholesaler/static/media/Almond.c3b02e5f.jpg",
+    "static/media/Keshew.42f8fdc8.jpg": "/Apnawholesaler/static/media/Keshew.42f8fdc8.jpg",
+    "static/media/brand.504a535c.png": "/Apnawholesaler/static/media/brand.504a535c.png",
+    "static/media/contact.5aef8f28.svg": "/Apnawholesaler/static/media/contact.5aef8f28.svg",
+    "static/media/fig.0ff2019f.jpg": "/Apnawholesaler/static/media/fig.0ff2019f.jpg",
+    "static/media/food-delivery.5faca08c.svg": "/Apnawholesaler/static/media/food-delivery.5faca08c.svg",
+    "static/media/logo1.37ea7335.svg": "/Apnawholesaler/static/media/logo1.37ea7335.svg",
+    "static/media/menu.317d825d.svg": "/Apnawholesaler/static/media/menu.317d825d.svg",
+    "static/media/safron.e8723bd7.jpg": "/Apnawholesaler/static/media/safron.e8723bd7.jpg",
+    "static/media/wafer.f6549157.jpg": "/Apnawholesaler/static/media/wafer.f6549157.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73cf0242.js",
+    "static/js/2.6a2a0078.chunk.js",
+    "static/css/main.2ea799f9.chunk.css",
+    "static/js/main.392f6825.chunk.js"
+  ]
+}
