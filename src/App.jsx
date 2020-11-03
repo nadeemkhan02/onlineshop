@@ -13,13 +13,13 @@ const App = () => {
             <div className="navbar">
                 <img  src={img} /> 
                 <p className="nave">Apna Wholesaler</p>
-                <NavLink exact className="nave" activeClassName="active" to="/">Home</NavLink>
+                <NavLink exact className="nave" activeClassName="active" to="/Apnawholesaler">Home</NavLink>
                 <NavLink exact className="nave" activeClassName="active" to="/about">About</NavLink>
                 <NavLink exact className="nave" activeClassName="active" to="/service">Services</NavLink>
                 <NavLink exact className="nave" activeClassName="active" to="/contact">Contact</NavLink>
             </div>
             <Switch>
-                <Route exact path="/" component={Home} />
+                <Route exact path="/Apnawholesaler" component={Home} />
                 <Route exact path="/about" component={About} />
                 <Route exact path="/service" component={Service} />
                 <Route exact path="/contact" component={Contact} />
