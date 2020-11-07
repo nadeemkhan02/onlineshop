@@ -3,7 +3,6 @@ import Card1 from "./Card1";
 import Card2 from "./Card2";
 import Card1info from "./Card1info";
 import Card2info from "./Card2info";
-import img1 from "../src/images/brand.png";
 import img2 from "../src/images/menu.svg";
 import Type from "./Type";
 import Footer from "./Footer";
@@ -37,9 +36,6 @@ const Home = () => {
                     <h2>Choose Your Best Deals At Best Price!!</h2>
                     <h4>Note:<br /><strong style={{ color: "green" }}>Today's best</strong> deal ends in every 24 hrs: {greet}</h4>
                     <Type />
-                </div>
-                <div className="elem2">
-                    <img src={img1} alt="logo" />
                 </div>
             </div>
             <br />

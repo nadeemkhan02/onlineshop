@@ -7,7 +7,7 @@ const Contact = () => {
     }
     return (
         <>
-            <h3>Contact Form</h3>
+            <h3 style={{fontSize:"30px", textAlign:"center"}}>Contact Form</h3>
             <div className="container">
                 <form>
                     <label for="fname">First Name</label>
